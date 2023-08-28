@@ -3,4 +3,5 @@ Projeto desenvolvido durante o curso de HTML e CSS usando responsividade com mob
 
 ✦ Prévia do projeto: 
 
-![image](https://github.com/jaquelinereiz/alura-books/assets/91039376/eac181ed-77f3-408d-81b1-8815a37e534a)
+![image](https://github.com/jaquelinereiz/alura-books/assets/91039376/30a3b69a-1c12-459e-b051-956c2e92426e)
+
